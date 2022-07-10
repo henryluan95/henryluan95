@@ -1,6 +1,6 @@
 ## 👀 Hey, It's nice seeing you here 👋 I'm Henry. 
 
-### I'm a full stack web developer with a good eye for design 🎨 and a weak stomach for spicy food 🔥.
+### I'm a full stack web developer with a big heart for art 🎨 and a weak stomach for spicy food 🔥.
 
 #### On the topic of personal stuffs:
 
