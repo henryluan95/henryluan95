@@ -6,7 +6,7 @@
 
 🧑🏻‍🎓&nbsp; I'm a recent bootcamp graduate.
 <br/>
-🧑🏻‍💻&nbsp; I'll be starting my new job as a Teaching Assistant for BrainStation this July.
+🧑🏻‍💻&nbsp; I'm working as a Teaching Assistant for BrainStation.
 <br/>
 🌱&nbsp; I’m currently learning TypeScript and GSAP-GreenSock.
 <br/>
