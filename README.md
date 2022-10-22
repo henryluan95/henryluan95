@@ -4,11 +4,11 @@
 
 #### On the topic of personal stuffs:
 
-🧑🏻‍🎓&nbsp; I'm a recent bootcamp graduate.
+🧑🏻‍🎓&nbsp; I'm currently open for hire.
 <br/>
-🧑🏻‍💻&nbsp; I'm working as a Teaching Assistant for BrainStation.
+🧑🏻‍💻&nbsp; My most recent job is being a Teaching Assistant at BrainStation's Web Development Bootcamp.
 <br/>
-🌱&nbsp; I’m currently learning AWS.
+🌱&nbsp; I’m learning AWS at the moment and have picked up an interest in web3.
 <br/>
 💞️&nbsp; When I'm not coding, I enjoy hanging out with my friends, taking photos and crafting things and stuffs.
 <br/>
