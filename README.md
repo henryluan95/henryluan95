@@ -46,6 +46,11 @@
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="ThreeJS"></p>
 
+<h3>My GitHub Stats:</h3>
+<div><a href="http://github.com/henryluan95"><img src="https://github-readme-stats.vercel.app/api?username=henryluan95&show_icons=true&hide=&count_private=true&theme=nightowl"</a></div>
+<!--
+<div><a href="http://www.github.com/henryluan95"><img src="https://github-readme-stats.vercel.app/api?username=henryluan95&show_icons=true&hide=&count_private=true&title_color=edcd94&text_color=6E6F71&icon_color=D2C8DE&bg_color=ffffff&hide_border=false&show_icons=true%22%20alt="Henry's github stats"/></a></div>-->
+
 
 #### Check out my personal web portfolio ✨[right here](https://www.henryluan.com/)✨
 ---
