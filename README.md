@@ -8,7 +8,7 @@
 <br/>
 🧑🏻‍💻&nbsp; My most recent job is being a Teaching Assistant at BrainStation's Web Development Bootcamp.
 <br/>
-🌱&nbsp; I’m learning AWS at the moment and horning my fundamental knowledge JS.
+🌱&nbsp; I’m learning AWS at the moment and sharpening my fundamental knowledge JS.
 <br/>
 💞️&nbsp; When I'm not coding, I enjoy hanging out with my friends, taking photos and crafting things and stuffs.
 <br/>
