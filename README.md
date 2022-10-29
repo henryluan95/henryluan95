@@ -37,7 +37,6 @@
 <p>
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></p>
-<h4>DevOps, Deployment & Testing</h4>
 
 
 #### Tools That I Am Learning
