@@ -38,6 +38,7 @@
         <br>
 <a target="_blank" href="https://paperman.vercel.app/"></a>
 
+https://user-images.githubusercontent.com/79684572/199575428-85c68b22-eb45-45ad-9c5e-cb2542c4f02e.mp4
 
   <p align="center">
   <a href="https://github.com/henryluan95/paperman" target="_blank">
@@ -55,6 +56,7 @@
         <br>
 <a target="_blank" href="https://henry-luan-brainfix.vercel.app/"></a>
 
+https://user-images.githubusercontent.com/79684572/199574881-b29f6782-48de-4224-857e-5caca568aba3.mp4
 
   <p align="center">
   <a href="https://github.com/henryluan95/henry-luan-brainfix" target="_blank">
