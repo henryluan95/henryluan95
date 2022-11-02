@@ -1,6 +1,22 @@
-## 👀 Hey, It's nice seeing you here 👋 I'm Henry. 
+<h1 align="center">👀 Hey, It's nice seeing you here 👋 I'm Henry. </h1>
 
-### I'm a full stack web developer with a big heart for art 🎨 and a weak stomach for spicy food 🔥.
+<h3 align="center">I'm a full stack web developer with a big heart for art 🎨 and a weak stomach for spicy food 🔥</h3>
+
+<p align="center">
+ ✨
+  <a target="_blank" href="https://www.henryluan.com/">
+    <img src="https://img.shields.io/badge/Website-243964?style=for-the-badge&logo=react&logoColor=white">
+  </a>
+ ✨
+  <a target="_blank" href="https://twitter.com/HenryLuan95" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+ ✨
+  <a target="_blank" href="https://www.linkedin.com/in/henry-luan/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+ ✨
+</p>
 
 #### On the topic of personal stuffs:
 
@@ -13,7 +29,6 @@
 💞️&nbsp; When I'm not coding, I enjoy hanging out with my friends, taking photos and crafting things and stuffs.
 <br/>
 🏳️‍🌈&nbsp; He/Him
-
 
 <h3>Languages & Tools I Use:</h3>
 <h4>Languages</h4>
@@ -50,8 +65,6 @@
 <!--
 <div><a href="http://www.github.com/henryluan95"><img src="https://github-readme-stats.vercel.app/api?username=henryluan95&show_icons=true&hide=&count_private=true&title_color=edcd94&text_color=6E6F71&icon_color=D2C8DE&bg_color=ffffff&hide_border=false&show_icons=true%22%20alt="Henry's github stats"/></a></div>-->
 
-
-#### Check out my personal web portfolio ✨[right here](https://www.henryluan.com/)✨
 ---
 
 <h4 align="right">Check Out My Projects Down There 🙇🏻‍♂️</h4>
